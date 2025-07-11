@@ -1,3 +1,3 @@
 # ChaiAurReact
 
-Learning React js. A JavaScript library.
+Learning React js A JavaScript library.
