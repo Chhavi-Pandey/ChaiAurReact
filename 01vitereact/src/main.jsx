@@ -14,7 +14,7 @@ const reactElement = React.createElement(
   'a',
   {href: 'https://google.com', target: '_blank'},
   'click me to visit google'
-  //you can inject variable in last means here
+  //you can inject variable in last;  means here
 )
 
 ReactDOM.createRoot(document.getElementById('root'))
